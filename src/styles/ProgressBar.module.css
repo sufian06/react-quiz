@@ -21,7 +21,7 @@
   height: 50px;
   border-radius: 8px;
   margin-left: 10px;
-  background: #47f5901c;
+  background: #75b5ff2c;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,7 +29,7 @@
 }
 
 .progressBar .backButton:hover {
-  background: #47f5953a;
+  background: #75b5ff2c;
 }
 
 @media only screen and (max-width: 1024px) {

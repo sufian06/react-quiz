@@ -8,7 +8,6 @@ export default function Analysis() {
           <h4>You answerd 5 out of 10 questions correctly</h4>
 
         <Question />
-        <Question />
 
         </div>
     );
